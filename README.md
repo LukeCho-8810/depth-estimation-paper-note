@@ -2,7 +2,7 @@
 
 ## 各任务评价标准
 
-![](/home/cy/桌面/depth-estimation-paper-note/images/evaluate.png)
+![](./images/evaluate.png)
 
 ## Benchmark
 
