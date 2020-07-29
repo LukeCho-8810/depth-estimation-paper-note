@@ -49,5 +49,5 @@ concatenation-based
 
 <img src="./images/Gwcnet_5.png" style="zoom:50%;" />
 
-这样就相当于给出了$N_{g}$个代价体。作者认为这种方式能够在给出特征相似性的同时，保留更多的信息。同时作者还指出，该文所提出的方法能够与concatenation volume同时使用。![image-20200727215020902](/home/cy/.config/Typora/typora-user-images/image-20200727215020902.png)
+这样就相当于给出了$N_{g}$个代价体。作者认为这种方式能够在给出特征相似性的同时，保留更多的信息。同时作者还指出，该文所提出的方法能够与concatenation volume同时使用。![](/home/cy/.config/Typora/typora-user-images/image-20200727215020902.png)
 
